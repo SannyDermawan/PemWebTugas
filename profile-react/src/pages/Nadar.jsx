@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState, useEffect } from "react";
 import nadarImg from "../assets/nadar.jpeg";
 const profile = {
@@ -246,4 +247,8 @@ export default function ProfileNadar() {
       </div>
     </>
   );
+=======
+export default function Hafez() {
+  return <h1>Hafez Page</h1>;
+>>>>>>> da2294217fb6cfefdbe4041ea25d9dff1978e523
 }
